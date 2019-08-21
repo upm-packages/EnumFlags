@@ -1,0 +1,16 @@
+{
+    "name": "EnumFlags.Editor",
+    "references": [
+        "GUID:0a6e85a009b624d4dbf0ffbc795c9644"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
